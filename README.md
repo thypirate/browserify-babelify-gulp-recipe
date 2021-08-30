@@ -1,4 +1,4 @@
-# Browserify + Babelify + Gulp - Recipe
+# Browserify + Babelify + Gulp 
 
 [Webpack](https://webpack.js.org/) is a wonderful tool for development when writing ReactJS. Alternatively you can write react code by using [Gulp](https://gulpjs.com/) with [Browserify](https://browserify.org/) and [Babelify](https://github.com/babel/babelify).  
 
